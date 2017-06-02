@@ -1,0 +1,139 @@
+
+
+#holder {
+	width:1100px;
+	height:100px;
+	margin-left:20px;
+	margin-right:20px;
+	margin-bottom:5px;
+	background-image:url(../Assets/Logo.jpg);
+	
+}	
+#header {
+	height:60px;
+	width:1100px;
+	margin-bottom:2px;
+	margin-left:20px;
+	margin-right:20px;
+	font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	background-color:#03F;
+}
+
+#head-left{
+	float:left;
+	height:60;
+	}
+#head-right{
+	float:right;
+	height:60;
+	}
+
+
+
+
+#colorbar{background-color:#0F0;
+		height:7px;
+		width:1077px;
+		margin-top:11PX;
+		margin-left:20px;
+		margin-right:20px;
+		width:1100px;
+}
+	
+#content {
+	height:500px auto;
+	width:1100px;
+	margin-left:20px;
+	margin-right:20px;
+	background-image:url(../Assets/web3.jpg);
+	margin-top:20px;
+}
+
+#left-content {
+	width:100px;
+	float:left;
+	padding-top:5px;
+	padding-left:8px;
+	padding-bottom:3px;
+	padding-right:8px;
+	backface-visibility:visible;
+	
+	
+	}
+
+
+#right-content {
+	width:1000px;
+	float:Right;
+	height: auto;
+	backface-visibility:visible;
+	}
+	
+#left-right-content {
+	width:530px;
+	float:left;
+	height: auto;
+	background-repeat:repeat;
+	background-image:url(../Assets/web3.jpg);
+	font:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	backface-visibility:visible;
+	
+	}
+#right-right-content {
+	width:460px;
+	float:left;
+	height: auto;
+	margin-left:3px;
+	margin-right:3px;
+	backface-visibility:visible;
+}	
+	
+#info{
+	background-color:#800040;
+	text-outline:#FFF;
+	width:445px;
+}
+	
+	
+
+#footer {
+	height:50px;
+	clear: both;
+	float: none;
+	width:1100px;
+	background-color:#03F;
+	margin-left:20px;
+	margin-right:20px
+}	
+
+.StyleTextField{
+	border:1px solid #666;
+	border-radius: 6px;
+	width:200px;
+	height:35px;
+	font-family:"Times New Roman", Times, serif;
+	padding-left:6px;
+	}
+	
+.commentbox {
+	width:250px;
+	height:70px;
+	border:1px solid #666;
+	border-radius:4px;
+	text-align:start;
+	text-align:start left ;
+}
+.tables{
+	text-outline:#000;
+	border:thin;
+}
+
+#centre{
+	margin-left:300px;
+	margin-right:300px;
+	background-image:url(../Assets/web3.jpg);
+	width:500px;
+	height:250 auto;	
+	}
+
+		

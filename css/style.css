@@ -1,0 +1,17 @@
+.body{
+	backface-visibility:visible;
+	text-outline:#333;
+	}
+	
+#header{
+	margin-left:360;
+	margin-right:360;
+	padding:3;
+	}
+#login{
+	margin-top:175;
+	background-image:url(../Assets/web3.jpg);
+	width:400;
+	height:auto;
+	widows:inherit;
+	}
